@@ -6,7 +6,7 @@ html
 body{
 	width: 100%;
 	height: 100%;
-	background-color: #C0BDBD;
+	background-color: #DCF8F5;
 }
 .container 
 {
@@ -38,4 +38,13 @@ body{
 	color:#131A22;
 	font-size:100px;
 	text-align: center;
+}
+button
+{
+	width: 150px;
+	border-radius: 25px;
+	border-style: hidden;
+	background-image: linear-gradient(to bottom,#ff5e6c, #ffaaab);
+	box-shadow: 10px,10px,5px,grey;
+
 }
