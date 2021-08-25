@@ -17,13 +17,13 @@ body{
 	align-items: center;
 	width: auto;
 	height: auto;
-	border:1px solid black;
+	/*border:1px solid black;*/
 }
 .numbers
 {
 	height: 300px;
 	width: 300px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	background-image: linear-gradient(to to bottom,#feb300, #fff5d7);
 	border-radius: 25px;
 	float: left;
@@ -32,11 +32,11 @@ body{
 	justify-content: space-evenly;
 	align-items: center;
 }
-.mianNum
+.mainNum
 {
-	font-family: verdana sans-serif;
+    font-family: 'Kaushan Script', cursive;
 	color:#131A22;
-	font-size:100px;
+	font-size:150px;
 	text-align: center;
 }
 button
