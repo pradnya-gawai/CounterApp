@@ -17,4 +17,25 @@ body{
 	align-items: center;
 	width: auto;
 	height: auto;
+	border:1px solid black;
+}
+.numbers
+{
+	height: 300px;
+	width: 300px;
+	border: 1px solid black;
+	background-image: linear-gradient(to to bottom,#feb300, #fff5d7);
+	border-radius: 25px;
+	float: left;
+	margin:0px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+.mianNum
+{
+	font-family: verdana sans-serif;
+	color:#131A22;
+	font-size:100px;
+	text-align: center;
 }
